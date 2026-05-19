@@ -1,16 +1,16 @@
 {
-    "version": "0.13.9",
+    "version": "0.13.11",
     "description": "Vim-inspired CEF-backed browser. Wayland on Linux, native on macOS / Windows.",
     "homepage": "https://github.com/kryptic-sh/buffr",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/kryptic-sh/buffr/releases/download/v0.13.9/buffr-0.13.9-x64.zip",
-            "hash": "05149a00cb2923859f7a5e7f84b36e89de30ae52e2eba5721c57665c0f99861b"
+            "url": "https://github.com/kryptic-sh/buffr/releases/download/v0.13.11/buffr-0.13.11-x64.zip",
+            "hash": "46da45ac5d2f9d8030995e48d14d8c467b0dbc0a87e28675ab8f73d56000e3f0"
         },
         "arm64": {
-            "url": "https://github.com/kryptic-sh/buffr/releases/download/v0.13.9/buffr-0.13.9-arm64.zip",
-            "hash": "1b72a591b905c69f51e9a4fc4060def0df016555684b50cd9a4aba8ecc24d919"
+            "url": "https://github.com/kryptic-sh/buffr/releases/download/v0.13.11/buffr-0.13.11-arm64.zip",
+            "hash": "c1b86f3ba90f94c1c5ee0a80d0d6bc000e55cdf26b868b6994a8611ad76ae858"
         }
     },
     "bin": "buffr.exe",
