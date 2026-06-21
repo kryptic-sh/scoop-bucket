@@ -1,13 +1,13 @@
 {
-  "version": "0.8.5",
+  "version": "0.8.6",
   "description": "Rofi-style application launcher for Wayland. Built with Floem.",
   "homepage": "https://github.com/kryptic-sh/pikr",
   "license": "MIT",
   "depends": "nerd-fonts/Hack-NF",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/kryptic-sh/pikr/releases/download/v0.8.5/pikr-v0.8.5-x86_64-pc-windows-msvc.zip",
-      "hash": "d41abb7172523be66cb6c98dfa08bea1921277ea5ca92313a2d03467ef2d5196"
+      "url": "https://github.com/kryptic-sh/pikr/releases/download/v0.8.6/pikr-v0.8.6-x86_64-pc-windows-msvc.zip",
+      "hash": "c23cd5d0cdad54250f4914fe0d199fe7502cc9aca90764cff54759aa8ffb696f"
     }
   },
   "bin": "pikr.exe",
