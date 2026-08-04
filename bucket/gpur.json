@@ -1,12 +1,12 @@
 {
-  "version": "0.12.0",
+  "version": "0.13.0",
   "description": "btop-style GPU monitor TUI — NVIDIA, AMD, Intel, Apple Silicon",
   "homepage": "https://github.com/kryptic-sh/gpur",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/kryptic-sh/gpur/releases/download/v0.12.0/gpur-v0.12.0-x86_64-pc-windows-msvc.zip",
-      "hash": "dbbc03fdc3bc64d535e152be9c25f68854dce37399e8a66918617fa863f4208c"
+      "url": "https://github.com/kryptic-sh/gpur/releases/download/v0.13.0/gpur-v0.13.0-x86_64-pc-windows-msvc.zip",
+      "hash": "d49ac84bed083d4e3a3acb9f9975e2c1ee872407e03750ba73b69380de33d677"
     }
   },
   "bin": "gpur.exe",
