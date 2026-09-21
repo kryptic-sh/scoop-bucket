@@ -1,0 +1,26 @@
+{
+  "version": "0.7.1",
+  "description": "Modal SQL workbench for the terminal",
+  "homepage": "https://sqeel.kryptic.sh/",
+  "license": "MIT",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/kryptic-sh/sqeel/releases/download/v0.7.1/sqeel-v0.7.1-x86_64-pc-windows-msvc.zip",
+      "hash": "8f1cc21c52cdc2391d59791f10333ca7bc786bc9d1b25eac00aa273285b66412"
+    }
+  },
+  "bin": "sqeel.exe",
+  "checkver": {
+    "github": "https://github.com/kryptic-sh/sqeel"
+  },
+  "autoupdate": {
+    "architecture": {
+      "64bit": {
+        "url": "https://github.com/kryptic-sh/sqeel/releases/download/v$version/sqeel-v$version-x86_64-pc-windows-msvc.zip"
+      }
+    },
+    "hash": {
+      "url": "$url.sha256"
+    }
+  }
+}
