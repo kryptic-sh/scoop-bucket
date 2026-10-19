@@ -1,12 +1,12 @@
 {
-  "version": "0.17.0",
+  "version": "0.17.1",
   "description": "herder — fast, agentic coding harness for OpenAI-compatible models",
   "homepage": "https://github.com/kryptic-sh/hrdr",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/kryptic-sh/hrdr/releases/download/v0.17.0/hrdr-v0.17.0-x86_64-pc-windows-msvc.zip",
-      "hash": "d9134abe85b893ae58c8283d99021fd7b296d58410e1b2bda47f91c0120054e0"
+      "url": "https://github.com/kryptic-sh/hrdr/releases/download/v0.17.1/hrdr-v0.17.1-x86_64-pc-windows-msvc.zip",
+      "hash": "1fc6dab16002f4c37b90c3683db4b518a80b90284c2746a8d0b815082e4e71bc"
     }
   },
   "bin": "hrdr.exe",
