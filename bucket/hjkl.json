@@ -1,12 +1,12 @@
 {
-  "version": "0.43.2",
+  "version": "0.43.3",
   "description": "Vim-modal terminal editor: standalone TUI built on the hjkl engine",
   "homepage": "https://hjkl.kryptic.sh/",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/kryptic-sh/hjkl/releases/download/v0.43.2/hjkl-v0.43.2-x86_64-pc-windows-msvc.zip",
-      "hash": "cd0aa91cbd6084685bc6106699e8934ca0690cd1f1fbd10794754fc14b977cde"
+      "url": "https://github.com/kryptic-sh/hjkl/releases/download/v0.43.3/hjkl-v0.43.3-x86_64-pc-windows-msvc.zip",
+      "hash": "46f3d1898dbed08d0f059cea98b779e8567c53afda61c78f8b4982272482fe9f"
     }
   },
   "bin": "hjkl.exe",
