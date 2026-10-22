@@ -1,12 +1,12 @@
 {
-  "version": "0.4.2",
+  "version": "0.4.3",
   "description": "Cross-platform dotfiles manager. Rust binary. Config-driven.",
   "homepage": "https://github.com/kryptic-sh/krypt",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/kryptic-sh/krypt/releases/download/v0.4.2/krypt-v0.4.2-x86_64-pc-windows-msvc.zip",
-      "hash": "4bcd15c7a20e477b195beef35c018672200b800d32987761fbc7239fa99034e3"
+      "url": "https://github.com/kryptic-sh/krypt/releases/download/v0.4.3/krypt-v0.4.3-x86_64-pc-windows-msvc.zip",
+      "hash": "db7b3331159931d5627b5328595b44a8d9c26fd3664b69e45f4706ff2884e7d9"
     }
   },
   "bin": "krypt.exe",
