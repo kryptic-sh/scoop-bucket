@@ -1,12 +1,12 @@
 {
-  "version": "0.12.0",
+  "version": "0.12.1",
   "description": "A tmux-style terminal multiplexer for Linux, macOS and Windows",
   "homepage": "https://github.com/kryptic-sh/tmxr",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/kryptic-sh/tmxr/releases/download/v0.12.0/tmxr-v0.12.0-x86_64-pc-windows-msvc.zip",
-      "hash": "04619827328cc3c42e25155f8c4ddd479b5cab1884a06c92158a0b10f0d36a34"
+      "url": "https://github.com/kryptic-sh/tmxr/releases/download/v0.12.1/tmxr-v0.12.1-x86_64-pc-windows-msvc.zip",
+      "hash": "ba8987c1e7fb0f0af0f824b60d64ef3c8de6d0d6bd4bb933a24261217bbdeddf"
     }
   },
   "bin": "tmxr.exe",
