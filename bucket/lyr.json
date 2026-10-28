@@ -1,12 +1,12 @@
 {
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "A desktop status bar for Wayland, Windows and macOS",
   "homepage": "https://github.com/kryptic-sh/lyr",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/kryptic-sh/lyr/releases/download/v0.3.0/lyr-v0.3.0-x86_64-pc-windows-msvc.zip",
-      "hash": "ecf06479e7f8ae5441595f84b51b3d0ebf3c790e9138002e55109d1b28c21f5e"
+      "url": "https://github.com/kryptic-sh/lyr/releases/download/v0.4.0/lyr-v0.4.0-x86_64-pc-windows-msvc.zip",
+      "hash": "2cb3dea322deadc1cc4ae6421c82fb0626b9951ddb502760520d0b263ba37050"
     }
   },
   "bin": "lyr.exe",
