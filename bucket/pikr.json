@@ -1,13 +1,13 @@
 {
-  "version": "0.9.5",
+  "version": "0.9.6",
   "description": "Vim-modal application launcher — rofi replacement.",
   "homepage": "https://github.com/kryptic-sh/pikr",
   "license": "MIT",
   "depends": "nerd-fonts/Hack-NF",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/kryptic-sh/pikr/releases/download/v0.9.5/pikr-v0.9.5-x86_64-pc-windows-msvc.zip",
-      "hash": "79c57fd48312d0e032908539a351da444682cf5aaa55bdac9a4a3eb3899ebf6f"
+      "url": "https://github.com/kryptic-sh/pikr/releases/download/v0.9.6/pikr-v0.9.6-x86_64-pc-windows-msvc.zip",
+      "hash": "008d1e35840a1dfda3e0aca5967c8d2ca3df39baa7b17695f88be199ccbb8cb2"
     }
   },
   "bin": "pikr.exe",
