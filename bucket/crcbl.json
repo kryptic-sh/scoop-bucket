@@ -1,12 +1,12 @@
 {
-  "version": "0.17.1",
+  "version": "0.17.2",
   "description": "Crucible engine's headless control CLI",
   "homepage": "https://crcbl.kryptic.sh",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/kryptic-sh/crcbl/releases/download/v0.17.1/crcbl-v0.17.1-x86_64-pc-windows-msvc.zip",
-      "hash": "8bd086f5b2f1985550c79f48e651e1404b8d1c61f1cec092fec03c294082582f"
+      "url": "https://github.com/kryptic-sh/crcbl/releases/download/v0.17.2/crcbl-v0.17.2-x86_64-pc-windows-msvc.zip",
+      "hash": "c3013400575b369d4ec6f48cb0d6fcf2a22a2d05b914a0dd2ee01ea02968311b"
     }
   },
   "bin": "crcbl.exe",
