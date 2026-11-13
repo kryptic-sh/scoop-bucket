@@ -1,12 +1,12 @@
 {
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Pure-Rust LLM inference engine with an OpenAI-compatible server",
   "homepage": "https://github.com/kryptic-sh/infr",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/kryptic-sh/infr/releases/download/v0.2.0/infr-v0.2.0-x86_64-pc-windows-msvc.zip",
-      "hash": "42cb00eac4a8a39a98ecb64854d28a1b057ff29c406446fe22b32da0c112ada0"
+      "url": "https://github.com/kryptic-sh/infr/releases/download/v0.3.0/infr-v0.3.0-x86_64-pc-windows-msvc.zip",
+      "hash": "590491d40cb3d4b9d61f996f2abb2be4c5ce036061a879cab91b2b708f29db2c"
     }
   },
   "bin": "infr.exe",
